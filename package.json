@@ -1,0 +1,36 @@
+{
+  "name": "ld50",
+  "version": "0.1.0",
+  "description": "Try it.  It won't kill ya.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TorchlightSoftware/ld50.git"
+  },
+  "keywords": [
+    "json",
+    "json-ld",
+    "query",
+    "orm",
+    "http",
+    "service",
+    "permissions",
+    "object",
+    "capabilities",
+    "ocap",
+    "crdt",
+    "sync",
+    "decentralized",
+    "distributed",
+    "replication"
+  ],
+  "author": "q@bitmage.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TorchlightSoftware/ld50/issues"
+  },
+  "homepage": "https://github.com/TorchlightSoftware/ld50#readme"
+}
