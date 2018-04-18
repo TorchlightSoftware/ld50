@@ -20,3 +20,4 @@ LD50 is a web-service generator for [JSON-LD](https://json-ld.org/spec/) complia
   * We resolve data outside of our local map by retrieving from disk or network.
   * Query language is itself defined in JSON-LD.
 
+![LD50 diagram](docs/LD50.png)
